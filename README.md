@@ -1,7 +1,5 @@
 # NYC 2016 🗽 🇺🇸
 
-![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
-
 `Day 1`
 
 1. [Battery Park](https://goo.gl/maps/GaaUsTe9DcK2)
@@ -33,6 +31,7 @@
 27. [Union Pool Brooklyn](http://www.union-pool.com/)
 
 `Day 2`
+
 1. Museum Mile
     2. Le pain quotidien
     3. The Met + Manux x Machina Exhibition
@@ -48,6 +47,7 @@
     13. Angel Share speakeasy
 
 `Day 3`
+
 1. Willamsburg
     2. Bedford Av
     3. Whisk
@@ -67,6 +67,7 @@
     17. Stinky feets
 
 `Day 4`
+
 1. Brooklyn Flea market
 2. D.U.M.B.O.
     3. Luke's lobster
@@ -80,6 +81,7 @@
 11. Juliette rooftop bar 
 
 `Day 5`
+
 1. Bushwich Av
 2. Russ & Daughters
 3. Chelsea market
@@ -88,6 +90,7 @@
 6. Momofuku Nishi
 
 `Day 6 - Labor day`
+
 1. Flatiron
 2. Eataly
 3. Rizzoli library
@@ -98,6 +101,7 @@
 8. Umami Burger w/ cesco
 
 `Day 7`
+
 1. Guggheneim Museum - Moholi Nagy Exibit
 2. 5h Avenue
 3. Trump Tower
@@ -108,6 +112,7 @@
 8. Shake Shack @ D.U.M.B.O
 
 `Day 8 - Shopping`
+
 1. Nintendo Store
 2. Anthropologie
 3. Paper Source
@@ -125,12 +130,14 @@
 15. Kiki's
 
 `Day 9`
+
 1. The Frick collection
 2. The Loeb Boathouse + Boat rent
 3. Dear Data Book Release @ Rizzoli
 4. Lobster & Burgers
 
 `Day 10`
+
 1. Dough
 2. MoMa PS1
 3. Little Mo
