@@ -14,7 +14,7 @@
 10. [Seaport district](http://www.southstreetseaport.com/) 🚢
     11. [Design shop](http://www.southstreetseaport.com/seaport-studio/) 🛍
     12. [Smosgarburg](http://brooklynflea.com/markets/seaport-smorgasburg/) 🍔
-    13. [Pier 16}(https://en.wikipedia.org/wiki/South_Street_Seaport) 👀
+    13. [Pier 16](https://en.wikipedia.org/wiki/South_Street_Seaport) 👀
 14. Wall st and [Charging Bull](https://en.wikipedia.org/wiki/Charging_Bull) 🐗
 15. Soho
     16. Itinerario Case di ghisa 👀
